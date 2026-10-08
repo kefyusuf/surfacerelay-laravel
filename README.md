@@ -1,8 +1,8 @@
 # SurfaceRelay laravel
 
-Experimental alpha 0.1.0-alpha.2; unofficial reference runtime.
+Experimental alpha 0.1.0-alpha.3; unofficial reference runtime.
 
-Source revision: eaa9cbfffea3e4ccb31425a3d3afc014718cdeca. Package versions are independent of Action versions.
+Source revision: 83ebb86984ef99ad397fa18ccaf48dbf5f8150e5. Package versions are independent of Action versions.
 
 This alpha release contains only surfacerelay/laravel and @surfacerelay/browser-runtime.
 APIs may change. No production-security guarantee, support SLA or general native WebMCP certification is provided.
